@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Jsp 첫번째 예제</title>
+<title>JSP 첫번째 예제</title>
 </head>
 <body>
 <%
@@ -13,5 +13,6 @@
 	System.out.println("str : "+str); // 콘솔에 출력
 	out.println("<h1>"+"str : "+str+"</h1>"); // 웹에 출력 => document.write ("str = " +str)
 %>
+<%=str%>
 </body>
 </html>
