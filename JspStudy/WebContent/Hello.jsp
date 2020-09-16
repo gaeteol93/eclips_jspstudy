@@ -14,6 +14,6 @@
 	out.println("<h1>"+"str : "+str+"</h1>"); // 웹에 출력 => document.write ("str = " +str)
 %>
 <hr>
-난 왜이러냐?????
+난 왜이러냐????? 수식계산 : <%=(3+5)%>
 </body>
 </html>
