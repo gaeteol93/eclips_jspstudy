@@ -13,6 +13,7 @@
 	System.out.println("str : "+str); // 콘솔에 출력
 	out.println("<h1>"+"str : "+str+"</h1>"); // 웹에 출력 => document.write ("str = " +str)
 %>
-<%=str%>
+<hr>
+str 의 값을 출력 :<%=str%>
 </body>
 </html>
