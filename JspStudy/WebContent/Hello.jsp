@@ -14,6 +14,6 @@
 	out.println("<h1>"+"str : "+str+"</h1>"); // 웹에 출력 => document.write ("str = " +str)
 %>
 <hr>
-str 의 값을 출력 :<%=str%>
+난 왜이러냐?????
 </body>
 </html>
